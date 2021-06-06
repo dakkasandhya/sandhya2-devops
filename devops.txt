@@ -1,0 +1,11 @@
+devops is opearing system
+and is so many tools
+maven
+jenkinns
+clouds
+kerrameters
+linux
+git
+aws
+git hub
+
